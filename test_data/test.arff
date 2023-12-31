@@ -1,0 +1,24 @@
+@RELATION test 
+
+@ATTRIBUTE NumDots	REAL
+@ATTRIBUTE UrlLength 	REAL
+@ATTRIBUTE NumDash 	REAL
+@ATTRIBUTE NumNumericChars	REAL
+@ATTRIBUTE PathLength	REAL
+@ATTRIBUTE QueryLength 	REAL
+@ATTRIBUTE NumSensitiveWords 	REAL
+@ATTRIBUTE PctExtHyperlinks	REAL
+@ATTRIBUTE PctExtResourceUrls	REAL
+@ATTRIBUTE InsecureForms 	REAL
+@ATTRIBUTE PctNullSelfRedirectHyperlinks 	REAL
+@ATTRIBUTE FrequentDomainNameMismatch	REAL
+@ATTRIBUTE ExtMetaScriptLinkRT 	REAL
+@ATTRIBUTE PctExtNullSelfRedirectHyperlinksRT	REAL
+
+@ATTRIBUTE CLASS_LABEL 	{0,1}
+
+@DATA
+10,102,1,0,52,0,0,1,0.8,1,0,1,-1,0,?
+%
+%
+%
