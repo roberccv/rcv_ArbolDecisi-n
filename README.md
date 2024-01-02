@@ -29,6 +29,7 @@ DecisionStump -> 22,83%
 
 HoeffdingTree -> 13,69%
 
+![image text](https://github.com/roberccv/rcv_ArbolDecision/blob/main/imagenes/mejor%20arbol.png)
 ## Desarrollo en Java
 
 Por último quedaba realizar el desarrollo en java por lo que modificando el código puesto a disposición con lo aprendido en weka
